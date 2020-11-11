@@ -1,0 +1,60 @@
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe.config
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\bin\Debug\Stonks Adm.pdb
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormFornecedores.resources
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Index.resources
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormProdutos.resources
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Properties.Resources.resources
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.exe
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.pdb
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\source\repos\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CopyComplete
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe.config
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.pdb
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csprojAssemblyReference.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Index.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormProdutos.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Properties.Resources.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.GenerateResource.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CopyComplete
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.exe
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.pdb
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormFornecedor.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe.config
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Stonks Adm.pdb
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csprojAssemblyReference.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormFornecedor.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Index.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormProdutos.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Properties.Resources.resources
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.GenerateResource.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CopyComplete
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.exe
+C:\Users\Guilh\Downloads\Stonks (1)\Stonks (1)\Stonks\Stonks Adm\obj\Debug\Stonks Adm.pdb
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe.config
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\bin\Debug\Stonks Adm.exe
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\bin\Debug\Stonks Adm.pdb
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csprojAssemblyReference.cache
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormFornecedor.resources
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Index.resources
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Forms.FormProdutos.resources
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks_Adm.Properties.Resources.resources
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.GenerateResource.cache
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CoreCompileInputs.cache
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.csproj.CopyComplete
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.exe
+C:\Users\Guilh\Desktop\Guilherme Santos\T.I\Engenharia de Software - 2020\2º módulo\Prática Profissional em Programação\Stonks\Stonks\Stonks Adm\obj\Debug\Stonks Adm.pdb
